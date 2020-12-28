@@ -1,5 +1,5 @@
 # TAE-ImageProvenance
-Code for learning "Transformation Aware Embeddings for Image Provenance" analysis
+Code for learning "Transformation Aware Embeddings for Image Provenance" analysis (coming soon!!!)
 
 ## Abstract
 A dramatic rise in the flow of manipulated image content on the Internet has led to a prompt response from the media forensics research community.
